@@ -30,4 +30,3 @@ else:
         print("get a " + drink_name)
     else:
         print("return" + payment)
-
